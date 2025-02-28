@@ -1,6 +1,6 @@
 # 🖥️ 뱅가드발트
 
-🚀 **URL:** [https://vanguardvalt.xyz](https://vanguardvalt.xyz)
+🚀 **URL:** [https://vanguardvault.xyz](https://vanguardvault.xyz)
 
 ## 📝 소개
 뱅가드발트는 **사용자 친화적인 UI**와 **강력한 기능**을 가진 웹사이트입니다.  
@@ -24,4 +24,4 @@
 - **SEO 최적화** 및 페이지 로딩 속도 개선
 
 ## 🔗 사이트 링크
-👉 [https://vanguardvalt.xyz](https://vanguardvalt.xyz)
+👉 [https://vanguardvault.xyz](https://vanguardvault.xyz)
